@@ -18,7 +18,7 @@ public class Pesci {
     public String toString(){
         String rit="{\t";
         rit+="nome:\t"+this.nome;
-        rit+="eta`:\t"+this.eta;
+        rit+="\teta`:\t"+this.eta;
         rit+="\t}";
         return rit;
     }
