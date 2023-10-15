@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b54d0587-be39-4f2d-91e9-e3f14f1a16a6" name="Changes" comment="progetto acquario">
-      <change afterPath="$PROJECT_DIR$/src/Acquario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pesci.java" afterDir="false" />
+    <list default="true" id="b54d0587-be39-4f2d-91e9-e3f14f1a16a6" name="Changes" comment="creazione classe Pesci&#10;modifiche classe Pesci e test main&#10;verifica classe Pesci e modifica toString Pesci&#10;modifica e correzione metodo setPesce nella classe Acquario + creazione getPesce per array gia pieno e test di questi due metodi sul main&#10;creazione e test nel main dei metodi aggiungi e rimuovi pesce&#10;creazione toString, conclusione classe Acquario e test del progetto">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697381140440</updated>
-      <workItem from="1697381142060" duration="1201000" />
+      <workItem from="1697381142060" duration="5613000" />
     </task>
     <task id="LOCAL-00001" summary="progetto acquario">
       <created>1697381489827</created>
@@ -86,15 +83,61 @@
       <option name="project" value="LOCAL" />
       <updated>1697381633180</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="creazione classe Pesci">
+      <created>1697382371171</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697382371171</updated>
+    </task>
+    <task id="LOCAL-00004" summary="creazione classe Pesci&#10;modifiche classe Pesci e test main">
+      <created>1697382788197</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697382788197</updated>
+    </task>
+    <task id="LOCAL-00005" summary="creazione classe Pesci&#10;modifiche classe Pesci e test main&#10;verifica classe Pesci">
+      <created>1697383529172</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697383529172</updated>
+    </task>
+    <task id="LOCAL-00006" summary="creazione classe Pesci&#10;modifiche classe Pesci e test main&#10;verifica classe Pesci e modifica toString Pesci&#10;modifica e correzione metodo setPesce nella classe Acquario + creazione getPesce per array gia pieno e test di questi due metodi sul main&#10;creazione e test nel main dei metodi aggiungi e rimuovi pesce&#10;creazione toString, conclusione classe Acquario e test del progetto">
+      <created>1697386492530</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697386492530</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="progetto acquario" />
-    <option name="LAST_COMMIT_MESSAGE" value="progetto acquario" />
+    <MESSAGE value="creazione classe Pesci" />
+    <MESSAGE value="creazione classe Pesci&#10;modifiche classe Pesci e test main" />
+    <MESSAGE value="creazione classe Pesci&#10;modifiche classe Pesci e test main&#10;verifica classe Pesci" />
+    <MESSAGE value="creazione classe Pesci&#10;modifiche classe Pesci e test main&#10;verifica classe Pesci e modifica toString Pesci&#10;modifica e correzione metodo setPesce nella classe Acquario + creazione getPesce per array gia pieno e test di questi due metodi sul main" />
+    <MESSAGE value="creazione classe Pesci&#10;modifiche classe Pesci e test main&#10;verifica classe Pesci e modifica toString Pesci&#10;modifica e correzione metodo setPesce nella classe Acquario + creazione getPesce per array gia pieno e test di questi due metodi sul main&#10;creazione e test nel main dei metodi aggiungi e rimuovi pesce" />
+    <MESSAGE value="creazione classe Pesci&#10;modifiche classe Pesci e test main&#10;verifica classe Pesci e modifica toString Pesci&#10;modifica e correzione metodo setPesce nella classe Acquario + creazione getPesce per array gia pieno e test di questi due metodi sul main&#10;creazione e test nel main dei metodi aggiungi e rimuovi pesce&#10;test ed errore del clone di Acquario" />
+    <MESSAGE value="creazione classe Pesci&#10;modifiche classe Pesci e test main&#10;verifica classe Pesci e modifica toString Pesci&#10;modifica e correzione metodo setPesce nella classe Acquario + creazione getPesce per array gia pieno e test di questi due metodi sul main&#10;creazione e test nel main dei metodi aggiungi e rimuovi pesce&#10;creazione toString, conclusione classe Acquario e test del progetto" />
+    <option name="LAST_COMMIT_MESSAGE" value="creazione classe Pesci&#10;modifiche classe Pesci e test main&#10;verifica classe Pesci e modifica toString Pesci&#10;modifica e correzione metodo setPesce nella classe Acquario + creazione getPesce per array gia pieno e test di questi due metodi sul main&#10;creazione e test nel main dei metodi aggiungi e rimuovi pesce&#10;creazione toString, conclusione classe Acquario e test del progetto" />
   </component>
 </project>
